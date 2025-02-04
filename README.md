@@ -1,5 +1,11 @@
 # Endpoints 🚀  
 
+## Origianl Repo
+
+<https://github.com/alfaarghya/alfa-leetcode-api/>
+
+---
+
 ## 👤User Details  
 
 | Details                       | Endpoint                             | Description                                                          |  
@@ -48,9 +54,3 @@
 | _Filter & Limited Problems_        | `/problems?tags=tag1+tag2+tag3&limit=number`             | Get a list of a specified **_number_** of problems based on selected **_tags_**.                                             |  
 | _Skip & Limited Problems_          | `/problems?limit=number&skip=number`                     | Get a list of a specified **_number_** of problems skipping a specified **number** of problems.                              |  
 | _Skip & Filter & Limited Problems_ | `/problems?tags=tag1+tag2+tag3&limit=number&skip=number` | Get a list of a specified **_number_** of problems based on selected **_tags_** skipping a specified **number** of problems. |
-
----
-
-## Origianl Repo
-
-<https://github.com/alfaarghya/alfa-leetcode-api/>
